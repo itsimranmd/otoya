@@ -78,7 +78,7 @@ export const Left = ({ className }: LeftProps) => {
       {/* Tips Section */}
       <motion.div className="mt-auto pb-4 pt-2 text-neutral-400">
         <div className="flex flex-col gap-2 p-4 border-t border-neutral-800/50">
-          <h5 className="text-xs font-medium text-neutral-300">Tips</h5>
+          <h5 className="text-xs font-medium text-neutral-300">Note</h5>
           <ul className="list-disc list-outside pl-4 space-y-1.5">
             <li className="text-xs leading-relaxed">
               Works best with multiple devices IRL in the same space.
@@ -88,7 +88,10 @@ export const Left = ({ className }: LeftProps) => {
               refresh.
             </li>
             <li className="text-xs leading-relaxed">
-              {"Play on speaker directly. Don't use Bluetooth."}
+             Please reach out to Imran - itsimranmd@gmail.com for further any queries
+            </li>
+            <li className="text-xs leading-relaxed">
+             Spatial audio may lag because of the network.
             </li>
           </ul>
         </div>
