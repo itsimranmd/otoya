@@ -86,7 +86,7 @@ export const TopBar = ({ roomId }: TopBarProps) => {
 
         {/* GitHub icon in the top right */}
         <a
-          href="https://github.com/freeman-jiang/otoya"
+          href="https://github.com/itsimranmd/otoya"
           target="_blank"
           rel="noopener noreferrer"
           className="text-neutral-400 hover:text-white transition-colors"

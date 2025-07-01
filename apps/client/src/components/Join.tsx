@@ -107,6 +107,11 @@ export const Join = () => {
       animate={{ opacity: 1 }}
       transition={{ duration: 0.5 }}
     >
+       <img
+    src="https://i.ibb.co/4ZnNZF0T/Otoyablack.png"
+    alt="Otoya Logo"
+    className="w-32 h-auto mb-6"
+  />
       <div className="w-full px-1">
         <motion.div
           className="flex flex-col items-center justify-center p-6 bg-neutral-900 rounded-lg border border-neutral-800 shadow-xl max-w-[28rem] mx-auto"
@@ -295,7 +300,7 @@ export const Join = () => {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.4, delay: 0.4 }}
           >
-            Use native device speakers.
+                          Smile while you still have teeth. Sit back and enjoy the music.
           </motion.p>
         </motion.div>
       </div>

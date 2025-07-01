@@ -24,9 +24,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Otoya",
   description:
-    "Otoya is an open-source, web audio player built for multi-device playback.",
+    "Otoya is a multi-bluetooth tool developed by Imran originally for Sony.",
   keywords: ["music", "sync", "audio", "collaboration", "real-time"],
-  authors: [{ name: "Freeman Jiang" }],
+  authors: [{ name: "Imran MD" }],
 };
 
 export default function RootLayout({
