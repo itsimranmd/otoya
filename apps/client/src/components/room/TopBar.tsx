@@ -40,7 +40,7 @@ export const TopBar = ({ roomId }: TopBarProps) => {
             className="font-medium hover:text-white transition-colors"
           >
             <img
-    src="https://ibb.co/ccSTcysF"  // This is the image link deployed on jmp.sh 
+    src="https://i.ibb.co/4ZnNZF0T/Otoyablack.png"  // This is the image link deployed on imgbb
     alt="Otoya Logo"
     width={32}
     height={32}
